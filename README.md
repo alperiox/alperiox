@@ -6,9 +6,9 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/alperiox?tab=repositories&q=&type=&language=python)
 
 ### Libraries
+![PyTorch](img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=EE4C2C)
 ![Tensorflow 2](https://img.shields.io/badge/-Tensorflow-000?&logo=TensorFlow&logoColor=FF9900)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras&logoColor=D00000)
-![PyTorch](img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=EE4C2C)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn&logoColor=f7931e)
 #### Other Libraries
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=013243)
