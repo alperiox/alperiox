@@ -1,11 +1,8 @@
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/34214152/112859939-052cb700-90bc-11eb-8609-75e704de26b8.mp4" type="video/mp4">
-</video>
-![intro](https://im2.ezgif.com/tmp/ezgif-2-fe936d73fe40.gif)
 
-
+![intro](https://user-images.githubusercontent.com/34214152/112862483-7a00f080-90be-11eb-9ed0-2e3fd20af5cd.gif)  
 
 <summary>
+
   <p>:zap: Github Stats </p>
 <img align = "left" alt = "alperiox's Github Statistics" src = "https://my-project-five-mu.vercel.app/api?username=alperiox&show_icons=true&hide_border=true&theme=dracula" />
 
@@ -15,3 +12,4 @@
 
 
 </summary>
+
