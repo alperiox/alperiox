@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/alperiox?tab=repositories&q=&type=&language=python)
 
 ### Libraries
-![PyTorch](img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=EE4C2C)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=EE4C2)
 ![Tensorflow 2](https://img.shields.io/badge/-Tensorflow-000?&logo=TensorFlow&logoColor=FF9900)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras&logoColor=D00000)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn&logoColor=f7931e)
