@@ -1,5 +1,7 @@
-
-![intro](https://user-images.githubusercontent.com/34214152/112862483-7a00f080-90be-11eb-9ed0-2e3fd20af5cd.gif)  
+<iframe height="728" style="width: 100%;" scrolling="no" title="Code-Typing a Blog Post" src="https://codepen.io/raqhea/embed/WNRGGKg?height=728&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/raqhea/pen/WNRGGKg'>Code-Typing a Blog Post</a> by Alper
+  (<a href='https://codepen.io/raqhea'>@raqhea</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 <summary>
 
