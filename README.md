@@ -1,5 +1,5 @@
 <summary>
-![tanıtım](https://user-images.githubusercontent.com/34214152/112859939-052cb700-90bc-11eb-8609-75e704de26b8.mp4)
+![tanitim](https://user-images.githubusercontent.com/34214152/112859939-052cb700-90bc-11eb-8609-75e704de26b8.mp4)
   
   
   
