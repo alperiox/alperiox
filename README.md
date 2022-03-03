@@ -2,7 +2,7 @@
 
 ## About me!
 
-Hello everyone! I'm Alper, 
+Hello! I'm Alper, 
 
 I'm a mathematics student at Hacettepe University. I love working on deep learning and I'm trying to build some cool projects over time while improving myself in this area. In general, I mostly just play with computer vision systems and try to put something on my own. 
 
