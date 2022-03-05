@@ -41,5 +41,5 @@ But I also have some examples about NLP and recommendation systems. Additionally
   <img align = "left" alt = "alperiox's Github Statistics" src = "https://my-project-five-mu.vercel.app/api?username=alperiox&show_icons=true&hide_border=true&theme=dracula" />
 </a>
 <a href="https://github.com/alperiox/alperiox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperiox&hide=c%2B%2B,c,html&theme=dracula" alt="alperiox's Github Stats" />
+  <img align="center" src="https://my-project-five-mu.vercel.app/api/top-langs/?username=alperiox&hide=c%2B%2B,c,html&theme=dracula" alt="alperiox's Github Stats" />
 </a>
