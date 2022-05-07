@@ -6,7 +6,7 @@ Hello! I'm Alper,
 
 I'm a mathematics student at Hacettepe University. I love working on deep learning and I'm trying to build some cool projects over time while improving myself in this area. In general, I mostly just play with computer vision systems and try to put something on my own. 
 
-But I also have some examples about NLP and recommendation systems. Additionally, since I'm studying mathematics, I love diving deep into deep learning approaches (although most of the time I don't understand what's going on :D )
+But I also have some examples about NLP and recommendation systems. Additionally, since I'm studying mathematics, I love diving deep into novel deep learning approaches and their mathematical background (although most of the time I don't understand what's going on :D )
 
 
  **I try to be as much empirical as I could in my life, this also applies to deep learning. I love trying new approaches and I'm trying to work on what I like while trying new things.**
