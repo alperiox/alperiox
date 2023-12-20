@@ -33,13 +33,7 @@ But I also have some examples about NLP and recommendation systems. Additionally
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0078d6)
-<summary>
 
+![Alper's github stats](https://github-readme-stats.vercel.app/api?username=alperiox&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
 
-## &#x1f4c8; :zap: GitHub Stats
-<a href="https://github.com/alperiox/alperiox">
-  <img align = "left" alt = "alperiox's Github Statistics" src = "https://my-project-five-mu.vercel.app/api?username=alperiox&show_icons=true&hide_border=true&theme=dracula" />
-</a>
-<a href="https://github.com/alperiox/alperiox">
-  <img align="center" src="https://my-project-five-mu.vercel.app/api/top-langs/?username=alperiox&hide=c%2B%2B,c,html&theme=dracula" alt="alperiox's Github Stats" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperiox&hide_progress=true&theme=synthwave)
