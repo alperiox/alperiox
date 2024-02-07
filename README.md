@@ -4,12 +4,16 @@
 
 Hello! I'm Alper, 
 
-I'm a mathematics student at Hacettepe University. I love working on deep learning and I'm trying to build some cool projects over time while improving myself in this area. In general, I mostly just play with computer vision systems and try to put something on my own. 
+I recently finished my undergraduate Mathematics studies as an honorary student, and I love working on deep learning. I'm more interested in stable diffusion and computer vision, trying to build something I deem valuable. I also like to work on mathematical concepts, especially on applied mathematics in higher studies. I want to try and work on things I'm interested in, mainly:
 
-But I also have some examples about NLP and recommendation systems. Additionally, since I'm studying mathematics, I love diving deep into novel deep learning approaches and their mathematical background (although most of the time I don't understand what's going on :D )
+- Generative applications based on stable diffusion
+- Inner workings of stable diffusion (I see so many interesting papers lately!)
+- Deep learning productionalization, from data collection to modeling at scale (I just started to self-study [data engineering zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)!)
+- Thanks to one of my instructors, I got interested in applying deep learning to specifically differential equation systems. Hopefully will be able to do it on my own :D
 
+I'm a freelancer and am open to opportunities for full-time at the moment. 
 
- **I try to be as much empirical as I could in my life, this also applies to deep learning. I love trying new approaches and I'm trying to work on what I like while trying new things.**
+ **I'm an empirical and imaginative person. I learned mathematics by visualizing my imagination, and I try to implement the same strategy as long as it works :D**
 
 ### Languages
 
