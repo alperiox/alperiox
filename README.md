@@ -39,5 +39,3 @@ I'm a freelancer and am open to opportunities for full-time at the moment.
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0078d6)
 
 ![Alper's github stats](https://github-readme-stats.vercel.app/api?username=alperiox&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperiox&hide_progress=true&theme=synthwave)
