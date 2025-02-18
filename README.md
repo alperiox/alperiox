@@ -12,7 +12,7 @@ I recently finished my undergraduate Mathematics studies as an honorary student,
 - Deep learning productionalization, from data collection to modeling at scale.
 - Thanks to one of my instructors, I got interested in applying deep learning to specifically differential equation systems. Hopefully will be able to do it on my own :D
 
-I'm currently an R&D Engineer, specializing in diffusion models for computer vision and reference-based visual grounding.
+I'm currently an R&D Engineer, specializing in VLMs for reference-based visual grounding.
 
  **I'm an empirical and imaginative person. I learned mathematics by visualizing my imagination, and I try to implement the same strategy as long as it works :D**
 
