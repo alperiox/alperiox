@@ -4,7 +4,7 @@
 
 Hello! I'm Alper, 
 
-I recently finished my undergraduate Mathematics studies as an honorary student, and I love working on deep learning. I'm more interested in stable diffusion and computer vision, trying to build something I deem valuable. I also like to work on mathematical concepts, especially on applied mathematics in higher studies. I want to try and work on things I'm interested in, mainly:
+I finished my undergraduate Mathematics studies as an honorary student, and I love working on deep learning. I'm more interested in stable diffusion and computer vision, trying to build something I deem valuable. I also like to work on mathematical concepts, especially on applied mathematics in higher studies. I want to try and work on things I'm interested in, mainly:
 
 - Generative applications based on stable diffusion
 - LLMs and their inner workings ([Andrej Karpathy](https://github.com/karpathy) is just too good as an instructor)
